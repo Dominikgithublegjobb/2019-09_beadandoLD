@@ -24,6 +24,7 @@ namespace beadando {
             }
             while (i < db);
             Console.WriteLine("a legnagyobb szam: "+szamok.Max());
+            Console.WriteLine("a legkisseb szam: "+szamok.Min());
             Console.ReadKey();
 
                
